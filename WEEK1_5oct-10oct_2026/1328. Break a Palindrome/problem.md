@@ -1,6 +1,6 @@
 # 1328. Break a Palindrome
 
-# Link: https://leetcode.com/problems/break-a-palindrome/description/ 
+***Link:*** https://leetcode.com/problems/break-a-palindrome/description/ 
 
 **Difficulty:** Medium  
 **Status:** Solved  
